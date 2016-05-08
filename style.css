@@ -1,7 +1,68 @@
-.container {
-	background-color: blue;
+/***
+*header styling
+***/
+
+header {
+	background: black;
+	margin: 1rem 0;
+	padding: 2rem 0;
 }
 
-.container-fluid {
-	background-color: aquamarine;
+
+/***
+*Body Styling
+***/
+
+.well {
+	background: #456F8C;
+}
+
+body {
+	color: white;
+	background-color: #D3D3D3;
+}
+
+h3 {
+	text-align: center;
+}
+
+h4 {
+	text-align: center;
+}
+
+/***
+Footer Styling
+***/
+
+footer {
+	background-color: black;
+	color: white;
+}
+
+.bottom-center{
+	font-style: italic;
+	text-align: center;
+}
+
+.foot-content {
+	padding: 1rem;
+}
+
+/***
+* Flexbox Sticky Footer
+* http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
+***/
+
+/*corrects IE min-height bug*/
+html { display: flex;}
+body { width: 100%;}
+
+.sfooter {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
+.sfooter-content {
+	flex: 1 0 auto;
 }
