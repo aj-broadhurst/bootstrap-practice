@@ -50,104 +50,103 @@
 		<div class="sfooter-content">
 			<header>
 				<div class="container">
-							<!-- Brand and toggle get grouped for better mobile display -->
-							<div class="navbar-header">
-								<button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
-										  data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-									<span class="sr-only">Toggle navigation</span>
-									<span class="icon-bar"></span>
-									<span class="icon-bar"></span>
-									<span class="icon-bar"></span>
-								</button>
-								<a class="navbar-brand" href="https://bootcamp-coders.cnm.edu/~abroadhurst/bootstrap-practice/">
-									Bootstrap Practice</a>
-							</div>
-							<!-- Collect the nav links, forms, and other content for toggling -->
-							<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-								<ul class="nav navbar-nav navbar-right">
-									<li><a href="http://getbootstrap.com/">Bootstrap</a></li>
-									<li><a href="https://bootcamp-coders.cnm.edu/class-materials/bootstrap/">DDCB Bootstrap
-											Intro</a></li>
-									<li><a href="https://google.com">Google</a></li>
-								</ul>
-							</div><!-- /.navbar-collapse -->
-						</div>
+					<!-- Brand and toggle get grouped for better mobile display -->
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+								  data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						<a class="navbar-brand" href="https://bootcamp-coders.cnm.edu/~abroadhurst/bootstrap-practice/">
+							Bootstrap Practice</a>
+					</div>
+					<!-- Collect the nav links, forms, and other content for toggling -->
+					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+						<ul class="nav navbar-nav navbar-right">
+							<li><a href="http://getbootstrap.com/">Bootstrap</a></li>
+							<li><a href="https://bootcamp-coders.cnm.edu/class-materials/bootstrap/">DDCB Bootstrap
+									Intro</a></li>
+							<li><a href="https://google.com">Google</a></li>
+						</ul>
+					</div><!-- /.navbar-collapse -->
 				</div>
 
 			</header>
-			<main>
-				<div class="container">
-					<div class="row">
-						<div class="col-xs-12">
-							<div class="well text-center">
-								<h1>This is Bootstrap Practice!</h1>
-							</div>
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-md-3">
-							<div class="well">
-								<h3>Column 1</h3>
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin condimentum lectus vitae
-									ultricies malesuada. Phasellus sit amet feugiat magna. Phasellus. </p>
-							</div>
-						</div>
-						<div class="col-md-3">
-							<div class="well">
-								<h3>Column 2</h3>
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin condimentum lectus vitae
-									ultricies malesuada. Phasellus sit amet feugiat magna. Phasellus. </p>
-							</div>
-						</div>
-						<div class="col-md-3">
-							<div class="well">
-								<h3>Column 3</h3>
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin condimentum lectus vitae
-									ultricies malesuada. Phasellus sit amet feugiat magna. Phasellus. </p>
-							</div>
-						</div>
-						<div class="col-md-3">
-							<div class="well">
-								<h3>Column 4</h3>
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin condimentum lectus vitae
-									ultricies malesuada. Phasellus sit amet feugiat magna. Phasellus.</p>
-							</div>
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-md-6">
-							<div class="well">
-								<h4>Section 1</h4>
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris arcu ante, pretium non nisi
-									ut, maximus accumsan ipsum. Aliquam dolor nulla, cursus ut augue eu, ornare pretium ligula.
-									Morbi in porta enim, eu egestas lectus. Pellentesque vitae nisi eros. Cum sociis natoque
-									penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut sagittis urna in ornare
-									mollis. Nunc maximus ac nibh a blandit. Mauris dignissim turpis nunc, quis varius metus
-									malesuada a. Suspendisse et justo mattis, iaculis lacus id, sollicitudin libero. Phasellus
-									purus lacus, viverra at leo vitae, sodales sodales arcu. Nulla at justo a massa accumsan
-									convallis. Donec porta urna id ante varius ornare. Vivamus pellentesque enim vel lorem
-									finibus gravida. Cras dui eros, tempor non fermentum in, pulvinar in lorem. Aliquam id
-									fermentum metus. </p>
-							</div>
-						</div>
-						<div class="col-md-6">
-							<div class="well">
-								<h4>Section 2</h4>
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris arcu ante, pretium non nisi
-									ut, maximus accumsan ipsum. Aliquam dolor nulla, cursus ut augue eu, ornare pretium ligula.
-									Morbi in porta enim, eu egestas lectus. Pellentesque vitae nisi eros. Cum sociis natoque
-									penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut sagittis urna in ornare
-									mollis. Nunc maximus ac nibh a blandit. Mauris dignissim turpis nunc, quis varius metus
-									malesuada a. Suspendisse et justo mattis, iaculis lacus id, sollicitudin libero. Phasellus
-									purus lacus, viverra at leo vitae, sodales sodales arcu. Nulla at justo a massa accumsan
-									convallis. Donec porta urna id ante varius ornare. Vivamus pellentesque enim vel lorem
-									finibus gravida. Cras dui eros, tempor non fermentum in, pulvinar in lorem. Aliquam id
-									fermentum metus.</p>
-							</div>
+		<main>
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="well text-center">
+							<h1>This is Bootstrap Practice!</h1>
 						</div>
 					</div>
 				</div>
-			</main>
+				<div class="row">
+					<div class="col-md-3">
+						<div class="well">
+							<h3>Column 1</h3>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin condimentum lectus vitae
+								ultricies malesuada. Phasellus sit amet feugiat magna. Phasellus. </p>
+						</div>
+					</div>
+					<div class="col-md-3">
+						<div class="well">
+							<h3>Column 2</h3>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin condimentum lectus vitae
+								ultricies malesuada. Phasellus sit amet feugiat magna. Phasellus. </p>
+						</div>
+					</div>
+					<div class="col-md-3">
+						<div class="well">
+							<h3>Column 3</h3>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin condimentum lectus vitae
+								ultricies malesuada. Phasellus sit amet feugiat magna. Phasellus. </p>
+						</div>
+					</div>
+					<div class="col-md-3">
+						<div class="well">
+							<h3>Column 4</h3>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin condimentum lectus vitae
+								ultricies malesuada. Phasellus sit amet feugiat magna. Phasellus.</p>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-6">
+						<div class="well">
+							<h4>Section 1</h4>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris arcu ante, pretium non nisi
+								ut, maximus accumsan ipsum. Aliquam dolor nulla, cursus ut augue eu, ornare pretium ligula.
+								Morbi in porta enim, eu egestas lectus. Pellentesque vitae nisi eros. Cum sociis natoque
+								penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut sagittis urna in ornare
+								mollis. Nunc maximus ac nibh a blandit. Mauris dignissim turpis nunc, quis varius metus
+								malesuada a. Suspendisse et justo mattis, iaculis lacus id, sollicitudin libero. Phasellus
+								purus lacus, viverra at leo vitae, sodales sodales arcu. Nulla at justo a massa accumsan
+								convallis. Donec porta urna id ante varius ornare. Vivamus pellentesque enim vel lorem
+								finibus gravida. Cras dui eros, tempor non fermentum in, pulvinar in lorem. Aliquam id
+								fermentum metus. </p>
+						</div>
+					</div>
+					<div class="col-md-6">
+						<div class="well">
+							<h4>Section 2</h4>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris arcu ante, pretium non nisi
+								ut, maximus accumsan ipsum. Aliquam dolor nulla, cursus ut augue eu, ornare pretium ligula.
+								Morbi in porta enim, eu egestas lectus. Pellentesque vitae nisi eros. Cum sociis natoque
+								penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut sagittis urna in ornare
+								mollis. Nunc maximus ac nibh a blandit. Mauris dignissim turpis nunc, quis varius metus
+								malesuada a. Suspendisse et justo mattis, iaculis lacus id, sollicitudin libero. Phasellus
+								purus lacus, viverra at leo vitae, sodales sodales arcu. Nulla at justo a massa accumsan
+								convallis. Donec porta urna id ante varius ornare. Vivamus pellentesque enim vel lorem
+								finibus gravida. Cras dui eros, tempor non fermentum in, pulvinar in lorem. Aliquam id
+								fermentum metus.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</main>
 		</div>
 		<footer>
 			<div class="container">
